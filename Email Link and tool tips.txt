@@ -1,0 +1,14 @@
+<!doctype html>
+
+<html>
+<head>
+<title>This is the title</title>
+</head>
+
+<body>
+<a href="mailto:pritamparker@gmail.com" >Email Pritam</a></br>
+<!--This is the tool toops when you hover the mouse it will shows Awesome search engine-->
+<a href="http://google.com" title="Awesome search engine">Google</a>
+</body>
+
+</html>
