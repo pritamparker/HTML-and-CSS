@@ -1,0 +1,15 @@
+<!doctype html>
+
+<html>
+<head>
+<title> This is the title </title>
+</head>
+
+<body>
+<!-- <a> stands for link.used by href inside the tag-->
+<a href="http://google.com">This will be a link</a>
+<br />
+<a href="second.html">This link to second page</a>
+</body>
+
+</html>
