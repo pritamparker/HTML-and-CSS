@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd"
+<html>
+<head>
+<title>This is the title</title>
+<style type="text/css">
+body{
+  background-color: blue;
+  color:white;
+}
+h3{
+  text-align: center;
+}
+p{
+  text-indent: 50px;
+}
+</style>
+</head>
+<body>
+<h3>Pritam's Blog</h3>
+<p>This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.This is the best day ever.
+</p>
+</body>
+</html>

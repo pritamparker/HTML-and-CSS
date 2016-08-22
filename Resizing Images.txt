@@ -1,0 +1,13 @@
+<!doctype html>
+
+<html>
+<head>
+<title>This is the title</title>
+</head>
+
+<body>
+<img  src="home.jpg" height="150"/>
+
+</body>
+
+</html>

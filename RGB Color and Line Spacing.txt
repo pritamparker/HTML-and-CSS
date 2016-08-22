@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd"
+<html>
+<head>
+<title>This is the title</title>
+<style type="text/css">
+h1{
+  color: #228B22;
+}
+p{
+  line-height: 130%;
+}
+</style>
+</head>
+<body>
+ <h1>Pritam cool website</h1>
+ <p>best site ever in the world.Mobile app consumers are increasing rapidly, and new categories are appearing in the mobile apps. Gradually, the mobile app development has got the shape of business.In today’s world of IT, people playing with trending technologies encash more rather than people who prefer going into a competitive idea. Let’s go through the trending technology which has much for Apps world to get fruits from.</p>
+</body>
+</html>

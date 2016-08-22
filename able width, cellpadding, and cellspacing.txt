@@ -1,0 +1,28 @@
+<!doctype html>
+
+<html>
+<head>
+<title>This is the title</title>
+</head>
+<body>
+<table border="1px" width="60%" cellpadding="10px" cellspacing="5px">
+     <tr>
+	 <th colspan="2"><h3>Odd People</h3></th>
+
+	 </tr>
+     <tr>
+	    <th>Type</th>
+		 <th>Reason</th>
+	 </tr>
+     <tr>
+      <td>Cat People</td>
+      <td>17 cats is just too many</td>
+     </tr>
+     <tr>
+       <td>Loud People</td>
+       <td>Sure turns that music up,its only 3 pm</td>
+     </tr>
+</table>
+</body>
+
+</html>

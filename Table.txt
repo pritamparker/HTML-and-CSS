@@ -1,0 +1,26 @@
+<!doctype html>
+
+<html>
+<head>
+<title>This is the title</title>
+</head>
+
+<body>
+<table border="1px">
+  <tr>
+         <td>Fish</td> 
+         <td>apples</td> 
+         <td>chicken</td>  
+  
+  </tr>
+  <tr>
+         <td>banana</td> 
+         <td>milk</td> 
+         <td>tea</td> 
+  
+  </tr>
+
+</table>
+</body>
+
+</html>
