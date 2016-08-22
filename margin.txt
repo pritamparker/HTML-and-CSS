@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd"
+<html>
+<head>
+<title>This is the title</title>
+<style type="text/css">
+p{
+  background-color: orange;
+  margin: 40px;
+}
+</style>
+</head>
+<body>
+  <p>This is a paragrapgh</p>
+    <p>This is a paragrapgh</p>
+</body>
+</html>
