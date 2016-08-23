@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+   <html>
+<head>
+<title>My Website</title>
+<style type="text/css">
+
+</style>
+</head>
+<body>
+<form>
+Username: <input type="text" name="username" size="15"
+maxlength="10" value="Enter Name Here">
+<br/>
+Male:<input type="radio" name="sex" value="male"/>
+Female:<input type="radio" name="sex" value="female"/>
+<br/>
+<p>
+  Select the foods that you would like to order.
+  </p>
+  Bacon <input type="checkbox" name="food" value="Bacon">
+  Ham  <input type="checkbox" name="food" value="Ham">
+  Tuna  <input type="checkbox" name="food" value="Tuna">
+  Soda Pop <input type="checkbox" name="food" value="Soda Pop">
+</form>
+</body>
+</html>

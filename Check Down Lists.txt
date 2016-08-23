@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+   <html>
+<head>
+<title>My Website</title>
+<style type="text/css">
+
+</style>
+</head>
+<body>
+<form>
+  What do you want to do today?
+    <select name="activities">
+      <option value="play">Play the guitar</option>
+      <option value="hair">Comb your Hair</option>
+      <option value="piono">teach a piono</option>
+      <option value="veg">buy vegetables</option>
+      <option value="shave">Shave</option>
+
+    </select>
+</form>
+</body>
+</html>

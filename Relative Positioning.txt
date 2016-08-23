@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+   <html>
+<head>
+<title>My Website</title>
+<style type="text/css">
+ #third{border: 1px solid green;
+ position:relative
+ /*In Relative position centre it moves to 60 px relative to previous position of text not website corner*/
+top: 60px;
+left: 30px;}
+</style>
+</head>
+<body>
+<p>First</p>
+<p>Second</p>
+<p id="third">Third</p>
+<p>Fourth</p>
+</body>
+</html>
