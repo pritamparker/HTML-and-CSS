@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd"
+<html>
+<head>
+<title>This is the title</title>
+<style>
+/*always use dot(.) before class in css.*/
+.redText{color: red;}
+.greenText{color: green}
+</style>
+</head>
+<body>
+<p class="redText">
+  I want to this text to be red!
+</p>
+<p class="greenText">
+  Boy oh boy i wish I was GREEN!
+</p>
+</body>
+</html>

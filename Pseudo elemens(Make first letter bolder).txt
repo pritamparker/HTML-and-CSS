@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd"
+<html>
+<head>
+<title>This is the title</title>
+<style>
+p:first-letter{ font-weight: bold;
+font-size: 30px;
+color: green;}
+</style>
+</head>
+<body>
+<p>
+  Maharashtra creating a tracking database of liquor smugglers.
+</p>
+<p>
+  helloworld
+</p>
+<p>
+  Oh, Pritam!
+</p>
+</body>
+</html>

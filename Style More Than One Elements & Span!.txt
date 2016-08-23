@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd"
+<html>
+<head>
+<title>This is the title</title>
+<style type="text/css">
+h1,p {color: red;}
+span{color: green;
+font-style:italic;}
+</style>
+</head>
+<body>
+This is normal text.
+<h1>This is header one.</h1>
+<p>
+  This is paragraph.<span>this line is</span> example of span.
+</p>
+</body>
+</html>
